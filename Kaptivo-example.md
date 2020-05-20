@@ -18,3 +18,9 @@ In addition to the live view of the whiteboard a [*time line* PDF](https://githu
 
 #### A screenshot of the resulting recording
 
+### A brief conclusion
+
+I think the technology is not perfect (which one is) but it is eminently usable. In my view it would constitute the type of improvement of our teaching that we aim for anyway for the future, the current situation being only a trigger to look into such improvements.
+
+The use in live online teaching could be a bit more tricky, at least currently, since there is a 6-8 s lag between the writing and the updating of the live view which goes through Kaptivo cloud servers for machine learning type enhancement. In recordings this is no real issue since the lag can be largely edited out in post processing (stream shifting).
+
